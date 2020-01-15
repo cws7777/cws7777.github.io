@@ -1,10 +1,19 @@
 - layout: left
-  name: Harvard University
-  dates: 2010 - 2013
-  qualification: BSc Computer Science
+  name: Seoul National University
+  dates: 2018 - Present
+  qualification: Master's degree in Neuroscience major
   quote: >
     Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
   description: | # this will include new lines to allow paragraphs
     During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
     I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+
+- layout: left
+  name: University at Buffalo (State University of New York, Buffalo)
+  dates: 2009 - 2016
+  qualification: Bachelor's degree, Computer Engineering
+  quote: >
+    The State University of New York at Buffalo(University at Buffalo, or SUNY Buffalo) is a public research university with campuses in Buffalo and Amherst, New York. It is the flagship campus of the State University of New York(SUNY) system, with the largest enrollment, largest endowment, and research funding as a comprehensive university center. The university was founded in 1846 as a private medical college, but in 1962 merged with the SUNY system.
+  description: | # this will include new lines to allow paragraphs
+    During my time at Harvard I learnt most of my key skills that I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
