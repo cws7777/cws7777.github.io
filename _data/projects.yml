@@ -1,8 +1,16 @@
 - layout: top-middle
-  name: Commencement-system-firmware
+  name: DigitalAlarmClock
   link: github.com/cws7777
   github: cws7777/DigitalAlarmClock
   quote: >
-    This is the project for CSE 341 in UB.
+    This was the project for CSE 341(Computer Organization) in UB.
   description: | # this will include new lines to allow paragraphs
     Task: Constructing Digital Alarm Clock
+
+- layout: top-middle
+  name: Commencement-System-Firmware
+  github: cws7777/Commencement-System-Firmware
+  quote: >
+    This was the graduation project for CSE 453 (HW/SW Integrated System Design) in UB.
+  description: | # this will include new lines to allow paragraphs
+    Task: UB Commencement System scanner firmware

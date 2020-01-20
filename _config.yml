@@ -24,9 +24,9 @@ linkedin_username: woosuk-paul-choi-36198494
 # about_title: About Me
 about_profile_image: images/profile_wschoi.jpg
 about_content: | # this will include new lines to allow paragraphs
-  ▷ Currently in Master's degree for Neuroscience major in Biointelligence lab at Seoul National University.
+  ▷ Currently on Master's degree for Neuroscience major in Biointelligence lab at Seoul National University.
 
-  ▷ Worked at KETI(Korea Electronic Technology Institute) as research assistant. (Oct. 2016 - Jul. 2018)
+  ▷ Worked at KETI (Korea Electronic Technology Institute) as research assistant. (Oct. 2016 - Jul. 2018)
 
   ▷ Graduated (B.S. in Computer Engineering) from University at Buffalo. (Class of 2016)
 #  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
@@ -44,9 +44,9 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in engineering, some of my other interests and hobbies are:
-   - Gaming
-   - Cooking
-   - Weight-Training
+   - Gaming (League of Legends, Battleground)
+   - Exercises (Weight-Training, Basketball, Swimming)
+   - Music
 #   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
