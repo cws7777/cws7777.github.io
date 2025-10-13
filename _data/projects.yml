@@ -1,4 +1,4 @@
-- layout: top-middle
+- layout: left
   name: Learning by Asking (LBA)
   link: https://la4ira.github.io
   quote: >
@@ -8,7 +8,7 @@
     Designed a question generation framework based on multimodal representations and hierarchical knowledge graphs. 
     Organized the 1st Workshop on Learning by Asking for Intelligent Robots and Agents (IEEE RO-MAN 2023).
 
-- layout: top-middle
+- layout: left
   name: SW StarLab Project
   quote: >
     IITP-funded AI research project (2021.01 – 2022.12)
@@ -17,7 +17,7 @@
     Developed structured learning pipelines integrating vision-language representations and knowledge graphs.
     Focused on structured representations such as scene graphs and knowledge graphs for situational reasoning.
 
-- layout: top-middle
+- layout: left
   name: Video Turing Test (VTT)
   link: https://www.youtube.com/watch?v=VvO1lM7KJx8&list=PLdpTZvspLBq1q2ATnAGa3QMzPF3zqSuzP&index=1
   quote: >
@@ -27,7 +27,7 @@
     Designed evaluation protocols and datasets for assessing multimodal comprehension. 
     Also served as an organizer for the Video Turing Test competition.
 
-- layout: top-middle
+- layout: left
   name: Samsung Beyond Limit (BL)
   quote: >
     Industry-academia collaboration project with Samsung Electronics (2019.01 – 2021.12)
@@ -36,7 +36,7 @@
     Designed a reinforcement learning (RL)-based model for process optimization and predictive analytics. 
     Managed data pipeline construction and multi-modal uncertainty modeling.
 
-- layout: top-middle
+- layout: left
   name: Digital Alarm Clock
   github: cws7777/DigitalAlarmClock
   quote: >
@@ -44,7 +44,7 @@
   description: |
     Designed and implemented a digital alarm clock using logic gates and microcontroller-based timing circuits.
 
-- layout: top-middle
+- layout: left
   name: Commencement System Firmware
   github: cws7777/Commencement-System-Firmware
   quote: >
