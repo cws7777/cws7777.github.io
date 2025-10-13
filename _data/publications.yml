@@ -1,4 +1,4 @@
-- layout: top-middle
+- layout: left
   name: "INQUIRER: Harnessing Internal Knowledge Graphs for Video Question Generation"
   link: "https://www.sciencedirect.com/science/article/pii/S0950705125010780"
   description: |
@@ -6,7 +6,7 @@
     Proposed **INQUIRER**, a framework that leverages internal knowledge graphs to generate context-aware questions from long-form videos.  
     The method enhances reasoning and diversity in video question generation by explicitly modeling structural semantics.
 
-- layout: top-middle
+- layout: left
   name: "Video Turing Test: A First Step Towards Human-Level AI"
   link: "https://onlinelibrary.wiley.com/doi/full/10.1002/aaai.12128"
   description: |
@@ -14,70 +14,70 @@
     Introduces the **Video Turing Test (VTT)** initiative for benchmarking human-level video understanding.  
     Explores metrics and methodologies to evaluate an AI system’s comprehension of narrative-driven videos.
 
-- layout: top-middle
+- layout: left
   name: "Scene Graph Parsing via Abstract Meaning Representation in Pre-trained Language Models"
   link: "https://aclanthology.org/2022.dlg4nlp-1.4/"
   description: |
     Presented at *NAACL Workshop on Deep Learning on Graphs for NLP (2022)*.  
     Proposed an AMR-based scene graph parser that integrates semantic abstraction from pre-trained language models, improving visual-linguistic alignment.
 
-- layout: top-middle
+- layout: left
   name: "SGRAM: Improving Scene Graph Parsing via Abstract Meaning Representation"
   link: "https://arxiv.org/abs/2210.08675"
   description: |
     *ArXiv preprint (2022)*.  
     Extended AMR-guided parsing for richer scene graph construction, bridging conceptual semantics with visual grounding.
 
-- layout: top-middle
+- layout: left
   name: Language-agnostic Semantic Consistent Text-to-Image Generation
   link: "https://aclanthology.org/2022.mml-1.1/"
   description: |
     Presented at *ACL Multilingual Multimodal Workshop (2022)*.  
     Proposed a multilingual generation model that ensures semantic consistency between text and image representations across diverse languages.
 
-- layout: top-middle
+- layout: left
   name: "Hypergraph Transformer: Weakly-Supervised Multi-hop Reasoning for Knowledge-based Visual Question Answering"
   link: "https://aclanthology.org/2022.acl-long.29/"
   description: |
     Published in *ACL 2022*.  
     Introduced the **Hypergraph Transformer**, enabling multi-hop reasoning over knowledge bases for visual question answering tasks.
 
-- layout: top-middle
+- layout: left
   name: Toward a Human-Level Video Understanding Intelligence
   link: "https://arxiv.org/abs/2110.04203"
   description: |
     Presented at *AAAI Fall Symposium Series on AI-HRI (2021)*.  
     Proposed a cognitive framework and evaluation methodology for achieving human-level understanding in complex video narratives.
 
-- layout: top-middle
+- layout: left
   name: "Toward General Scene Graph: Integration of Visual Semantic Knowledge with Entity Synset Alignment"
   link: "https://aclanthology.org/2020.alvr-1.2"
   description: |
     Presented at *ACL Workshop on Advances in Language and Vision Research (2020)*.  
     Integrated visual semantic knowledge and WordNet synsets to improve generalization in scene graph construction.
 
-- layout: top-middle
+- layout: left
   name: "Web of Things based IoT Standard Interworking Test Case: Demo Abstract"
   link: https://dl.acm.org/doi/10.1145/3276774.3281012
   description: |
     Presented at *BuildSys 2018*.  
     Introduced standard test cases for IoT interworking using the Web of Things (WoT) framework.
 
-- layout: top-middle
+- layout: left
   name: Occupancy Detection Technology in the Building based on IoT Environment Sensors
   link: "https://dl.acm.org/doi/pdf/10.1145/3277593.3277633"
   description: |
     Presented at *IOT 2018*.  
     Developed a low-cost occupancy detection system using IoT environmental sensors (CO₂, PIR, temperature) for smart energy management.
 
-- layout: top-middle
+- layout: left
   name: Space Inference System for Buildings using IoT
   link: "https://dl.acm.org/doi/10.1145/3162957.3163023"
   description: |
     Presented at *ICCIP 2017*.  
     Designed a space inference system leveraging IoT-based sensor networks to monitor occupancy and optimize energy usage.
 
-- layout: top-middle
+- layout: left
   name: Intelligent Building using Hybrid Inference with Building Automation System to Improve Energy Efficiency
   link: "https://ceur-ws.org/Vol-1930/paper-2.pdf"
   description: |
