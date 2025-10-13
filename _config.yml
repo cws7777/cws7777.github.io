@@ -24,7 +24,7 @@ linkedin_username: woosuk-paul-choi-36198494
 # about_title: About Me
 about_profile_image: images/profile_wschoi.jpg
 about_content: | # this will include new lines to allow paragraphs
-A results-oriented AI Researcher currently pursuing an integrated MS/PhD at Seoul National University, building on a Bachelor's in Computer Engineering from the State University of New York (SUNY) at Buffalo. My background includes two years of hands-on research at the Korea Electronics Technology Institute (KETI), where I developed Deep Learning and Reinforcement Learning models for automated IoT systems and co-engineered an environmental sensor device for occupancy detection. At SNU, I have successfully managed high-impact, industry-sponsored projects. As the Project Manager for a collaboration with Samsung Electronics ("Samsung Beyond Limit"project), I led the development of an AI-based analysis system for semiconductor manufacturing processes. Subsequently, as Deputy Project Manager, I developed a "Learning by Asking" (LBA) agent for active knowledge acquisition.
+  A results-oriented AI Researcher currently pursuing an integrated MS/PhD at Seoul National University, building on a Bachelor's in Computer Engineering from the State University of New York (SUNY) at Buffalo. My background includes two years of hands-on research at the Korea Electronics Technology Institute (KETI), where I developed Deep Learning and Reinforcement Learning models for automated IoT systems and co-engineered an environmental sensor device for occupancy detection. At SNU, I have successfully managed high-impact, industry-sponsored projects. As the Project Manager for a collaboration with Samsung Electronics ("Samsung Beyond Limit"project), I led the development of an AI-based analysis system for semiconductor manufacturing processes. Subsequently, as Deputy Project Manager, I developed a "Learning by Asking" (LBA) agent for active knowledge acquisition.
 
 # Projects Section
 # projects_title: Projects
@@ -36,7 +36,7 @@ A results-oriented AI Researcher currently pursuing an integrated MS/PhD at Seou
 # educaton_title: Education
 
 # More Section
-more_title: A Little More About Me
+# more_title: A Little More About Me
 more_content: |
   Outside of research, I enjoy spending time on things that keep me energized and inspired:
    - Gaming (MMORPG(LostArk, Diablo II and IV), League of Legends, etc.)
