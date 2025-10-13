@@ -1,15 +1,86 @@
 - layout: top-middle
-  name: Occupancy detection technology in the building based on IoT environment sensors
-  link: dl.acm.org/doi/pdf/10.1145/3277593.3277633
-  description: | # this will include new lines to allow paragraphs
-    The Web of Things (WoT) Interest Group (IG) in the World Wide Web Consortium is actively working on standard technologies for IoT interworking. In this IG, they aim to reduce costs through the global reach of Web standards, to enable open markets of services, and to unleash the power of the network effect. In this paper, we introduce the WoT works and show the result of implementation for applying WoT to our IoT device.
+  name: INQUIRER: Harnessing Internal Knowledge Graphs for Video Question Generation
+  link: https://www.sciencedirect.com/science/article/pii/S0950705125010780
+  description: |
+    Published in *Knowledge-Based Systems (2025)*.  
+    Proposed **INQUIRER**, a framework that leverages internal knowledge graphs to generate context-aware questions from long-form videos.  
+    The method enhances reasoning and diversity in video question generation by explicitly modeling structural semantics.
+
 - layout: top-middle
-  name: Intelligent building using hybrid inference with building automation system to improve energy efficiency
-  link: ceur-ws.org/Vol-1930/paper-2.pdf
-  description: | # this will include new lines to allow paragraphs
-    Most existing building automation systems are operated with rule-based settings. These systems are wasting a lot of energy because the systems can not properly cope with changes in indoor/outdoor environments. In this paper, we propose hybrid inference for inferring indoor environments in the building using real-time stream data coming from BAS. Hybrid inference consists of Runtime Stream Processing and Semantic Lift Processing. Runtime Stream Processing deduces occupancy and thermal comfort using machine learning technology with historical data. Semantic Lift Processing uses the semantic inference to extract new knowledge based on inferred results from Runtime Stream Processing. On the basis of stored semantic-based data in the ontology, Semantic Lift Processing derives energy waste space based on occupancy and thermal comfort by using semantic technology.
+  name: Video Turing Test: A First Step Towards Human-Level AI
+  link: https://onlinelibrary.wiley.com/doi/full/10.1002/aaai.12128
+  description: |
+    Published in *AI Magazine (2023)*.  
+    Introduces the **Video Turing Test (VTT)** initiative for benchmarking human-level video understanding.  
+    Explores metrics and methodologies to evaluate an AI system’s comprehension of narrative-driven videos.
+
+- layout: top-middle
+  name: Scene Graph Parsing via Abstract Meaning Representation in Pre-trained Language Models
+  link: https://aclanthology.org/2022.dlg4nlp-1.4/
+  description: |
+    Presented at *NAACL Workshop on Deep Learning on Graphs for NLP (2022)*.  
+    Proposed an AMR-based scene graph parser that integrates semantic abstraction from pre-trained language models, improving visual-linguistic alignment.
+
+- layout: top-middle
+  name: SGRAM: Improving Scene Graph Parsing via Abstract Meaning Representation
+  link: https://arxiv.org/abs/2210.08675
+  description: |
+    *ArXiv preprint (2022)*.  
+    Extended AMR-guided parsing for richer scene graph construction, bridging conceptual semantics with visual grounding.
+
+- layout: top-middle
+  name: Language-agnostic Semantic Consistent Text-to-Image Generation
+  link: https://aclanthology.org/2022.mml-1.1/
+  description: |
+    Presented at *ACL Multilingual Multimodal Workshop (2022)*.  
+    Proposed a multilingual generation model that ensures semantic consistency between text and image representations across diverse languages.
+
+- layout: top-middle
+  name: Hypergraph Transformer: Weakly-Supervised Multi-hop Reasoning for Knowledge-based Visual Question Answering
+  link: https://aclanthology.org/2022.acl-long.29/
+  description: |
+    Published in *ACL 2022*.  
+    Introduced the **Hypergraph Transformer**, enabling multi-hop reasoning over knowledge bases for visual question answering tasks.
+
+- layout: top-middle
+  name: Toward a Human-Level Video Understanding Intelligence
+  link: https://arxiv.org/abs/2110.04203
+  description: |
+    Presented at *AAAI Fall Symposium Series on AI-HRI (2021)*.  
+    Proposed a cognitive framework and evaluation methodology for achieving human-level understanding in complex video narratives.
+
+- layout: top-middle
+  name: Toward General Scene Graph: Integration of Visual Semantic Knowledge with Entity Synset Alignment
+  link: https://aclanthology.org/2020.alvr-1.2
+  description: |
+    Presented at *ACL Workshop on Advances in Language and Vision Research (2020)*.  
+    Integrated visual semantic knowledge and WordNet synsets to improve generalization in scene graph construction.
+
+- layout: top-middle
+  name: Web of Things based IoT Standard Interworking Test Case: Demo Abstract
+  link: https://dl.acm.org/doi/10.1145/3276774.3281012
+  description: |
+    Presented at *BuildSys 2018*.  
+    Introduced standard test cases for IoT interworking using the Web of Things (WoT) framework.
+
+- layout: top-middle
+  name: Occupancy Detection Technology in the Building based on IoT Environment Sensors
+  link: https://dl.acm.org/doi/pdf/10.1145/3277593.3277633
+  description: |
+    Presented at *IOT 2018*.  
+    Developed a low-cost occupancy detection system using IoT environmental sensors (CO₂, PIR, temperature) for smart energy management.
+
 - layout: top-middle
   name: Space Inference System for Buildings using IoT
-  link: dl.acm.org/doi/pdf/10.1145/3162957.3163023
-  description: | # this will include new lines to allow paragraphs
-    Korea has continued to receive international pressure on GHG (Greenhouse Gas) reduction as it is the world's seventh-largest GHG emission source, and the government has already submitted to the UN INDCs (Intended National Determined Contributions) to reduce 37% of its GHG emission compared to a Business As Usual (BAU) in post-2020 on June 2015. There are various methods to save energy in order to fulfill this reduction obligation. The most effective methods are to increase the energy efficiency of the building, which accounts for about 30% of the existing energy consumption in Korea. Most of the existing buildings do not use 30% of the building space. To reduce this, a system such as BEMS (Building Energy Management System) is needed to grasp and monitor the environment inside the low-cost buildings. However, most BEMS systems are very expensive, and smallscale buildings are difficult to apply because of the low cost of investment. In this paper, we propose a system for inferring the energy use status of each space by collecting environmental information of existing buildings using IoT device. The IoT sensor uses the temperature, humidity, CO2 (Carbon Dioxide), and PIR (Passive Infrared) sensor to judge whether the thermal comfort of the room and the room is occupied or not, and whether the energy is efficiently consumed by the space. Finally, the intelligent system can utilize the historical data of the inferred occupant to predict the occupancy in advance for the control.
+  link: https://dl.acm.org/doi/10.1145/3162957.3163023
+  description: |
+    Presented at *ICCIP 2017*.  
+    Designed a space inference system leveraging IoT-based sensor networks to monitor occupancy and optimize energy usage.
+
+- layout: top-middle
+  name: Intelligent Building using Hybrid Inference with Building Automation System to Improve Energy Efficiency
+  link: https://ceur-ws.org/Vol-1930/paper-2.pdf
+  description: |
+    Presented at *SWIT@ISWC 2017*.  
+    Proposed a hybrid inference framework combining machine learning and semantic reasoning to improve building energy efficiency.
+

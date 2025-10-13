@@ -1,21 +1,27 @@
 - layout: left
   name: Seoul National University
   dates: 2018 - Present
-  qualification: Master's degree in Neuroscience major
+  qualification: Ph.D. Candidate, Interdisciplinary Program in Neurosscience
   quote: >
-    Seoul National University is a national research university located in Seoul, Republic of Korea.
+    Bridging perception and cognition — toward intelligent systems that learn and reason like humans.
   description: | # this will include new lines to allow paragraphs
-    ▷ Conducting a study on learning and reasoning for interaction of vision and language.
+    ▷ Conducting research on structured knowledge representation learning for human-level video understanding.
 
-    ▷ Involved in various projects(Video Turing Test, StarLab, and etc.) in Biointelligence laboratory.
+    ▷ Developing models for vision–language interaction using scene graphs, knowledge graphs, and multimodal large language models.
+
+    ▷ Managing and contributing to national AI projects including “Learning by Asking (LBA)” and “SW StarLab” funded by IITP.
+
+    ▷ Organizer of the IEEE ROMAN 2023 workshop on *Learning by Asking for Intelligent Robots and Agents (LA4IRA, https://la4ira.github.io)*.
 
 - layout: left
   name: University at Buffalo (State University of New York, Buffalo)
   dates: 2009 - 2016
   qualification: Bachelor's degree, Computer Engineering
   quote: >
-    The State University of New York at Buffalo (University at Buffalo, or SUNY Buffalo) is a public research university with campuses in Buffalo and Amherst, New York. It is the flagship campus of the State University of New York(SUNY) system, with the largest enrollment, largest endowment, and research funding as a comprehensive university center. The university was founded in 1846 as a private medical college, but in 1962 merged with the SUNY system.
+    Where my passion for artificial intelligence and computer systems first began to take shape.
   description: | # this will include new lines to allow paragraphs
-    ▷ 2 times of Dean's list Honor (Spring 2014, Fall 2014)
-    
-    ▷ During my time at UB, I learnt most of my key skills that I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university.
+    ▷ Graduated with Dean’s List Honors (Spring 2014, Fall 2014).
+
+    ▷ Built a strong foundation in computer systems, algorithms, and machine learning principles.
+
+    ▷ Gained early experience in collaborative software projects and research-driven problem solving.

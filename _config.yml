@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Woo Suk (Paul) Choi
-title: Master's degree at Seoul National University
+title: Ph.D candidate at Seoul National University
 email: wschoi@bi.snu.ac.kr
 website: cws7777.github.io
 
@@ -24,12 +24,7 @@ linkedin_username: woosuk-paul-choi-36198494
 # about_title: About Me
 about_profile_image: images/profile_wschoi.jpg
 about_content: | # this will include new lines to allow paragraphs
-  ▷ Currently on Master's degree for Neuroscience major in Biointelligence lab at Seoul National University.
-
-  ▷ Worked at KETI (Korea Electronic Technology Institute) as research assistant. (Oct. 2016 - Jul. 2018)
-
-  ▷ Graduated (B.S. in Computer Engineering) from University at Buffalo. (Class of 2016)
-#  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+A results-oriented AI Researcher currently pursuing an integrated MS/PhD at Seoul National University, building on a Bachelor's in Computer Engineering from the State University of New York (SUNY) at Buffalo. My background includes two years of hands-on research at the Korea Electronics Technology Institute (KETI), where I developed Deep Learning and Reinforcement Learning models for automated IoT systems and co-engineered an environmental sensor device for occupancy detection. At SNU, I have successfully managed high-impact, industry-sponsored projects. As the Project Manager for a collaboration with Samsung Electronics ("Samsung Beyond Limit"project), I led the development of an AI-based analysis system for semiconductor manufacturing processes. Subsequently, as Deputy Project Manager, I developed a "Learning by Asking" (LBA) agent for active knowledge acquisition.
 
 # Projects Section
 # projects_title: Projects
@@ -42,13 +37,11 @@ about_content: | # this will include new lines to allow paragraphs
 
 # More Section
 # more_title: A Little More About Me
-more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in engineering, some of my other interests and hobbies are:
-   - Gaming (League of Legends, Battleground)
-   - Exercises (Weight-Training, Basketball, Swimming)
-   - Music
-#   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
+  Outside of research, I enjoy spending time on things that keep me energized and inspired:
+   - Gaming (MMORPG(LostArk, Diablo II and IV), League of Legends, etc.)
+   - Working out and staying active through weight training, basketball, and swimming
+   - Watching sports like soccer(football), basketball, and baseball
+   - Listening to music and discovering new artists
 # Footer
 footer_show_references: true
 

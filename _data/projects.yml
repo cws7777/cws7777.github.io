@@ -1,16 +1,54 @@
 - layout: top-middle
-  name: DigitalAlarmClock
-  link: github.com/cws7777
-  github: cws7777/DigitalAlarmClock
+  name: Learning by Asking (LBA)
+  link: https://la4ira.github.io
   quote: >
-    This was the project for CSE 341(Computer Organization) in UB.
-  description: | # this will include new lines to allow paragraphs
-    Task: Constructing Digital Alarm Clock
+    IITP-funded national AI project (2022.01 – Present)
+  description: |
+    Developed an agent capable of acquiring knowledge through interactive questioning. 
+    Designed a question generation framework based on multimodal representations and hierarchical knowledge graphs. 
+    Organized the 1st Workshop on Learning by Asking for Intelligent Robots and Agents (IEEE RO-MAN 2023).
 
 - layout: top-middle
-  name: Commencement-System-Firmware
+  name: SW StarLab Project
+  quote: >
+    IITP-funded AI research project (2021.01 – 2022.12)
+  description: |
+    Conducted research on cognitive reasoning for video understanding and question answering. 
+    Developed structured learning pipelines integrating vision-language representations and knowledge graphs.
+    Focused on structured representations such as scene graphs and knowledge graphs for situational reasoning.
+
+- layout: top-middle
+  name: Video Turing Test (VTT)
+  link: https://www.youtube.com/watch?v=VvO1lM7KJx8&list=PLdpTZvspLBq1q2ATnAGa3QMzPF3zqSuzP&index=1
+  quote: >
+    National AI grand challenge project (2018.09 – 2021.12)
+  description: |
+    Participated in the development of human-level video understanding intelligence. 
+    Designed evaluation protocols and datasets for assessing multimodal comprehension. 
+    Also served as an organizer for the Video Turing Test competition.
+
+- layout: top-middle
+  name: Samsung Beyond Limit (BL)
+  quote: >
+    Industry-academia collaboration project with Samsung Electronics (2019.01 – 2021.12)
+  description: |
+    Led the development of an AI-based analysis system for semiconductor manufacturing processes. 
+    Designed a reinforcement learning (RL)-based model for process optimization and predictive analytics. 
+    Managed data pipeline construction and multi-modal uncertainty modeling.
+
+- layout: top-middle
+  name: Digital Alarm Clock
+  github: cws7777/DigitalAlarmClock
+  quote: >
+    Course project for CSE 341 (Computer Organization) at the University at Buffalo.
+  description: |
+    Designed and implemented a digital alarm clock using logic gates and microcontroller-based timing circuits.
+
+- layout: top-middle
+  name: Commencement System Firmware
   github: cws7777/Commencement-System-Firmware
   quote: >
-    This was the graduation project for CSE 453 (HW/SW Integrated System Design) in UB.
-  description: | # this will include new lines to allow paragraphs
-    Task: UB Commencement System scanner firmware
+    Capstone project for CSE 453 (HW/SW Integrated System Design) at the University at Buffalo.
+  description: |
+    Developed firmware for the UB Commencement event scanning system integrating hardware-software communication modules.
+
