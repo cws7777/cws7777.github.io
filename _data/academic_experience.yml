@@ -1,19 +1,26 @@
 - layout: left
-  company: Korea Electronics Technology Institute (KETI)
-  link: www.keti.re.kr
-  job_title: Research Assistant
-  dates: October 2016 - July 2018
+  name: AI Expert Program in Samsung Electronics
+  job: Teaching Assistant
+  dates: May 2025 - June 2025
   quote: >
-    Conducted AI research in department of Energy IT Convergence Research Center.
+    Teaching assistant for the Samsung AI Expert Program at Seoul National University.
   description: | # this will include new lines to allow paragraphs
-    At KETI, I conducted research on Artificial Intelligence, focusing on deep learning and reinforcement learning for automated IoT systems. I developed predictive and control models that enhanced energy efficiency and automation performance. Additionally, I co-engineered an IoT environmental sensing device integrating CO2, PIR, and temperature sensors for real-time occupancy detection.
+    Assisted the professors in teaching the courses and conducting practical sessions for students.
 
 - layout: left
-  company: Third Republic of Korea Army (TROKA)
-  job_title: "Administrative Clerk & Interpreter"
-  dates: February 2012 - November 2013
+  name: Journal/Conference Reviewer
+  job: Reviewer
+  dates: Jan 2020 - Present
   quote: >
-    Served in the personnel administration department and supported joint exercises with USFK.
+    Served as a reviewer for the journal/conference papers in the field of AI.
   description: | # this will include new lines to allow paragraphs
-    As an interpreter, I collaborated with the United States Forces Korea (USFK) during large-scale joint military exercises, including Ulchi Freedom Guardian (UFG) and Key Resolve/Foal Eagle (KR/FE). 
-    As an administrative clerk, I managed personnel documents and reports using Microsoft Excel and Word, developing strong organizational and communication skills.
+    Reviewed the journal/conference such as CVPR, AAAI, EMNLP, etc. for the fields of AI.
+
+- layout: left
+  name: Neuroscience Seminar 1 and 2
+  job: Teaching Assistant
+  dates: September 2023 - December 2024
+  quote: >
+    Teaching assistant for the Neuroscience Seminar 1 and 2 courses at Seoul National University.
+  description: | # this will include new lines to allow paragraphs
+    Assisted the professors in teaching the courses and grading the assignments.
