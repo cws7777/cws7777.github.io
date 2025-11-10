@@ -1,9 +1,9 @@
 - layout: top-left
   name: "Hybrid State Representation for Video Procedure Planning"
-  link: "https://www.sciencedirect.com/science/article/pii/S0950705125010780"
+  link: "Not available yet"
   description: |
-    Published in *Winter Conference on Applications of Computer Vision (WACV) 2026*.  
-    Proposes **HSR**, a hybrid state representation that combines **Semantic State Graphs (SSGs)** with targeted **Question–Answer probes** to capture both structural precision and contextual clarity in procedural states.  
+    Accepted in *WACV 2026*.  
+    Proposes **HSR**, a Hybrid State Representation that combines **Semantic State Graphs (SSGs)** with targeted **Question–Answer probes** to capture both structural precision and contextual clarity in procedural states.  
     A heterogeneous encoder with visual–state alignment grounds the representation in video.  
     Achieves new state-of-the-art **Success Rate (SR)** on COIN, CrossTask, and NIV; ablations confirm the complementary benefits of SSG and QA components.
 
